@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/xku2iiymiel230vo/branch/main?svg=true)](https://ci.appveyor.com/project/PolinaVylizhanina/ajs-unit-matchers/branch/main)
